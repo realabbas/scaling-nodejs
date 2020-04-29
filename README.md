@@ -12,13 +12,13 @@
 - `os`
 - `spawn`
 
-### Cluster
+<!-- ### Cluster
 
 ### Zero-Downtime
 
 ### PM2
 
-### Spawn
+### Spawn -->
 
 ## Resources and techniques
 
