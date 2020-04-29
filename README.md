@@ -45,7 +45,7 @@ _Some techniques are implemented using stack other than node.js, but the concept
 - [NODE.JS scalability problems and how to solve them 🚀](https://softwareontheroad.com/nodejs-scalability-issues/)
 - [Divide and conquer: Scale your Node.js app using distributed queues](https://blog.logrocket.com/divide-and-conquer-scale-your-node-js-app-using-distributed-queues-8231a9486d3a/)
 - [Serving Millions of Users in Real-Time with Node.js & Microservices [Case Study]](https://blog.risingstack.com/nodejs-microservices-scaling-case-study/)
-- [Scalability in NodeJS Creating a Zero-downtime cluster](Schttps://itnext.io/creating-a-zero-downtime-cluster-in-nodejs-ad879ee3160)
+- [Scalability in NodeJS Creating a Zero-downtime cluster](https://itnext.io/creating-a-zero-downtime-cluster-in-nodejs-ad879ee3160)
 - [Monitoring & Vertically Scaling Node.js Applications](https://www.netguru.com/codestories/monitoring-vertically-scaling-nodejs-applications)
 - [Node.js scaling in highload](https://www.slideshare.net/tshemsedinov/nodejs-scaling-in-highload-145786324)
 - [How to Scale your Node.js app: Best Strategies and Built-in Tools for Scalability](https://medium.com/@OPTASY.com/how-to-scale-your-node-js-app-best-strategies-and-built-in-tools-for-scalability-a1725df082f5)
