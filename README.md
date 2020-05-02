@@ -1,4 +1,4 @@
-![Scaling Node.js Guide Github Ali Abbas @realabbas](https://raw.githubusercontent.com/realabbas/scaling-nodejs/master/demo/cover.png)
+![Scaling Node.js Guide Github Ali Abbas @realabbas](https://raw.githubusercontent.com/realabbas/scaling-nodejs/master/demo/cover_image.png)
 
 ## Scaling Types
 
