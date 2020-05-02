@@ -52,6 +52,9 @@ _Some techniques are implemented using stack other than node.js, but the concept
 - [Node.js scaling in highload](https://www.slideshare.net/tshemsedinov/nodejs-scaling-in-highload-145786324)
 - [How to Scale your Node.js app: Best Strategies and Built-in Tools for Scalability](https://medium.com/@OPTASY.com/how-to-scale-your-node-js-app-best-strategies-and-built-in-tools-for-scalability-a1725df082f5)
 - [Securing and Scaling up Node.js Applications](https://blockchain.dcwebmakers.com/blog/best-practices-for-securing-and-scaling-nodejs-applications.html)
+- [Scaling-out with Node Clusters](https://medium.com/the-andela-way/scaling-out-with-node-clusters-1dca4a39a2a)
+- [Handling blocking operations in Node](https://medium.com/the-andela-way/handling-blocking-operations-in-node-dbe8baa58ae7)
+- [Interrupts and Request Memoization](https://medium.com/the-andela-way/interrupts-and-request-memoization-23cfe925b0ec)
 
 ### Videos
 
