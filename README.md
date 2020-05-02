@@ -24,6 +24,8 @@
 
 _Some techniques are implemented using stack other than node.js, but the concept is more important to comprehend and implement for better performance of the application_
 
+### Blogs
+
 - [Scaling Node.js Applications](https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afadc/)
 - [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 - [Good practices for high-performance and scalable Node.js applications [Part 1/3]](https://medium.com/iquii/good-practices-for-high-performance-and-scalable-node-js-applications-part-1-3-bb06b6204197)
@@ -50,3 +52,23 @@ _Some techniques are implemented using stack other than node.js, but the concept
 - [Node.js scaling in highload](https://www.slideshare.net/tshemsedinov/nodejs-scaling-in-highload-145786324)
 - [How to Scale your Node.js app: Best Strategies and Built-in Tools for Scalability](https://medium.com/@OPTASY.com/how-to-scale-your-node-js-app-best-strategies-and-built-in-tools-for-scalability-a1725df082f5)
 - [Securing and Scaling up Node.js Applications](https://blockchain.dcwebmakers.com/blog/best-practices-for-securing-and-scaling-nodejs-applications.html)
+
+### Videos
+
+- [Tech Talk: Server Scaling in Node.js](https://www.youtube.com/watch?v=w1IzRF6AkuI)
+- [The Art of Building Node.js Projects at Scale](https://www.youtube.com/watch?v=_H6td2GaW3I)
+- [Scaling Your Node.JS API Like a Boss (Part One)](https://www.youtube.com/watch?v=Ogjb60Fg10A)
+- [Scaling Your Node.JS API Like a Boss (Part Two)](https://www.youtube.com/watch?v=f5phsX4VUOU)
+- [Scaling NodeJS - Abhinav Rastogi, Flipkart](https://www.youtube.com/watch?v=OsHvD6EUAWM)
+- [Abhinav Rastogi: Scaling NodeJS beyond the ordinary | JSConf Iceland 2018](https://www.youtube.com/watch?v=K8spO4hHMhg)
+- [Modular-services in a NodeJS monolith - Naval Saini, Flip Flop App](https://www.youtube.com/watch?v=XELSRLTk66o)
+- [Scaling Real-time Apps on Cloud Foundry Using Node.js and Redis](https://www.youtube.com/watch?v=a19OfVfqsa8)
+- [Node JS - Scaling Applications - Clusters](https://www.youtube.com/watch?v=Iz0MFOKmmDY&t=600s)
+- [Node JS - Scaling Applications - Architecting Zero Downtime](https://www.youtube.com/watch?v=INM6TybFV9Q&t=495s)
+- [Node JS - Scaling Applications - PM2](https://www.youtube.com/watch?v=iHzoQy1jx7M)
+- [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express](https://www.youtube.com/watch?v=CnailTcJV_U)
+- [Node JS - Scaling Applications](https://www.youtube.com/watch?v=RCyR5_9djik&list=PLrwNNiB6YOA3xc1dfQpHuaU8HsKxkEgiQ)
+- [Scaling Node.js Applications with Kubernetes and Docker - Erick Wendel, EW.IT](https://www.youtube.com/watch?v=Jmf9jilQUsU)
+- [Node.js at Scale with Erik Toth](https://www.youtube.com/watch?v=bvDtEcQdGs0)
+- [Architect for Scale - My Learnings in Node.js (A case study)](https://www.youtube.com/watch?v=eFxSLn4VFRo)
+- [Node.js Performance and Highly Scalable Micro-Services - Chris Bailey, IBM](https://www.youtube.com/watch?v=Fbhhc4jtGW4)
