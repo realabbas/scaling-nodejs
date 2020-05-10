@@ -90,8 +90,7 @@ _Some techniques are implemented using stack other than node.js, but the concept
 
 #### Cluster
 
-*Check number of CPUs*
-`
-const cluster = require("cluster"); // Cluster Native Module
-const cpus = require("os").cpus().length; // Number of CPUs 
-`
+###### Check number of CPUs
+
+`const cluster = require("cluster"); // Cluster Native Module`
+`const cpus = require("os").cpus().length; // Number of CPUs`
