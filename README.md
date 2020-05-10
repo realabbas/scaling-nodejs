@@ -85,3 +85,13 @@ _Some techniques are implemented using stack other than node.js, but the concept
 - [Node.js: Deploying, Monitoring and Scaling](https://www.youtube.com/watch?v=vR6xjmfc19Q)
 - [A Million Connections...and Beyond! - Node.js at Scale](https://www.youtube.com/watch?v=AH7kw8sKefg)
 - [Load Balancing with NGINX](https://www.youtube.com/watch?v=2X4ZO5tO7Co)
+
+### Example Code
+
+#### Cluster
+
+*Check number of CPUs*
+`
+const cluster = require("cluster"); // Cluster Native Module
+const cpus = require("os").cpus().length; // Number of CPUs 
+`
