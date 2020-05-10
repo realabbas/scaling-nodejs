@@ -100,7 +100,7 @@ console.log("Number of CPUs available - ", cpus)
 
 ```
 
-###### Full Clustering Example
+###### [Full Clustering Example](https://github.com/realabbas/scaling-nodejs/blob/master/cluster/cluster.js)
 
 ```
 const http = require("http");
@@ -140,7 +140,7 @@ if (cluster.isMaster) {
 }
 ```
 
-###### Zero - Downtime Example
+###### [Zero - Downtime Example](https://github.com/realabbas/scaling-nodejs/blob/master/zero-downtime/zero-downtime.js)
 
 ```
 const http = require("http");
