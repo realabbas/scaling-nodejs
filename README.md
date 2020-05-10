@@ -26,7 +26,7 @@ _Some techniques are implemented using stack other than node.js, but the concept
 
 ### Blogs
 
-- [Scaling Node.js Applications](https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afadc/)
+- [Scaling Node.js Applications](https://jscomplete.com/learn/node-beyond-basics/scaling-node-apps)
 - [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 - [Good practices for high-performance and scalable Node.js applications [Part 1/3]](https://medium.com/iquii/good-practices-for-high-performance-and-scalable-node-js-applications-part-1-3-bb06b6204197)
 - [Good practices for high-performance and scalable Node.js applications [Part 2/3]](https://medium.com/iquii/good-practices-for-high-performance-and-scalable-node-js-applications-part-2-3-2a68f875ce79)
