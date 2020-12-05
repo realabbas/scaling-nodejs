@@ -1,5 +1,7 @@
 ![Scaling Node.js Guide Github Ali Abbas @realabbas](https://raw.githubusercontent.com/realabbas/scaling-nodejs/master/demo/cover_image.png)
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=realabbas.scaling-nodejs)
+
 ## Scaling Types
 
 - X Axis
